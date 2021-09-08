@@ -36,11 +36,11 @@ Bitcoin, Ethereum, Binance Coin, Polkadot, Tether, Cardano, Uniswap, Litecoin, C
 
 ## Previews
 
-![Youtube promo video](Media/002-cryptocurrency-coins-01.jpg)]
+![Youtube promo video](Media/002-cryptocurrency-coins-01.jpg)
 
-![Youtube promo video](Media/002-cryptocurrency-coins-02.jpg)]
+![Youtube promo video](Media/002-cryptocurrency-coins-02.jpg)
 
-![Youtube promo video](Media/002-cryptocurrency-coins-03.jpg)]
+![Youtube promo video](Media/002-cryptocurrency-coins-03.jpg)
 
 ## Licence
 
