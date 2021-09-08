@@ -2,6 +2,10 @@
 
 [![Youtube promo video](https://img.youtube.com/vi/W96XK_Il-f8/0.jpg)](https://www.youtube.com/watch?v=W96XK_Il-f8)
 
+*(click to see a video preview on Youtube)*
+
+## Introduction
+
 Highly detailed pack of cryptocurrency coins with 4k textures for PBR materials. Includes 25 most popular cryptocurrencies with 3 different designs and 3 color variants (gold, silver, gold & silver).
 
 ## Key Features
